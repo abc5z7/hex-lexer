@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wuzheqi/Documents/c/c++Blocks/解析hex/HexLexer.h
+cstdio
+/Users/wuzheqi/Documents/c/c++Blocks/解析hex/cstdio
+cstring
+/Users/wuzheqi/Documents/c/c++Blocks/解析hex/cstring
+cstdlib
+/Users/wuzheqi/Documents/c/c++Blocks/解析hex/cstdlib
+
+/Users/wuzheqi/Documents/c/c++Blocks/解析hex/main.cpp
+iostream
+-
+HexLexer.h
+/Users/wuzheqi/Documents/c/c++Blocks/解析hex/HexLexer.h
+

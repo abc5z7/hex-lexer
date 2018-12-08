@@ -1,0 +1,4 @@
+"/Users/wuzheqi/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/183.4588.63/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/wuzheqi/Documents/c/c++Blocks/解析hex
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/wuzheqi/Documents/c/c++Blocks/解析hex/cmake-build-debug
